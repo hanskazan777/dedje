@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Rover",
+    "species" : "Dog",
+    "foods": {
+      "likes": ["Apples", "Meat"],
+      "dislikes": ["Grapes", "Watermelon"]
+    }
+  },
+  {
+    "name": "Rocky",
+    "species" : "Dog",
+    "foods": {
+      "likes": ["Bones", "Fries"],
+      "dislikes": ["Apples"]
+    }
+  },
+  {
+    "name": "Bailey",
+    "species" : "Dog",
+    "foods": {
+      "likes": ["Meat"],
+      "dislikes": ["Grapes"]
+    }
+  }
+]
